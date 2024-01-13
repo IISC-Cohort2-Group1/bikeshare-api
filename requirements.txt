@@ -10,9 +10,10 @@ mypy
 isort==5.8.0
 
 # After uploding your package in PyPi use the given below
-#titanic-model==0.0.1
+#bikeshare-model==0.0.1
 
-# If locally copyied whl file inside titanic_model-api then use given below
-bikeshare_model-0.0.1-py3-none-any.whl
+# If locally copyied whl file inside bikeshare-api then use given below
+# bikeshare_model-0.0.1-py3-none-any.whl
 
 # Git Release will do as well
+pip install git+https://github.com/IISC-Cohort2-Group1/Bikeshare.git
